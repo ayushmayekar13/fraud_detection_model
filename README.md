@@ -13,6 +13,8 @@ This project provides a complete machine learning pipeline for credit card fraud
   - Model evaluation with confusion matrix and feature importance
 - Optional Chrome extension and WebSocket integration for real-time streaming.
 
+- The model files included in this dataset are already trained on a dataset
+
 ### Installation and Setup
 
 Clone the repository:
@@ -30,6 +32,8 @@ source venv/bin/activate
 ## Install dependencies
 
 pip install -r requirements.txt
+
+## Make sure to load a dataset for training pupose
 
 ## Training the Model
 

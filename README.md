@@ -19,7 +19,7 @@ This project provides a complete machine learning pipeline for credit card fraud
 
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/fraud_detection.git
+git clone https://github.com/ayushmayekar13/fraud_detection.git
 cd fraud_detection
 
 
